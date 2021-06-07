@@ -9,6 +9,7 @@ const AboutPage = () => {
       <title>About Me</title>
       <h1>About Me</h1>
       <p>I am XYZ</p>
+      <Link to = "/">Back to Home</Link>
     </main>
   )
 }
